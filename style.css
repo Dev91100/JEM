@@ -1,43 +1,4 @@
-
-/*=====
-Template Name: B-Hero	
-Author: MarkUps
-Author URI: http://www.markups.io/
-Version: 1.0
-=======*/
-
-
-/* Table of Content
-==================================================
-#BASIC TYPOGRAPHY
-#HEADER	
-#MENUE
-#SLIDER
-#ABOUT US
-#CALL TO ACTION
-#SERVICE
-#VIDEO
-#PORTFOLIO
-#COUNTER
-#CLIENTS 
-#PRICING
-#TESTIMONIALS
-#NEWS LETTER
-#CLIENTS
-#GOOGLE MAP
-#FOOTER
-#ABOUT US 
-#BLOG PAGE
-#CONTACT US
-#404 ERROR PAGE
-#RESPONSIVE STYLE
-==========*/
-
-
-/*--------------------*/
-/* BASIC TYPOGRAPHY */
-/*--------------------*/
-
+/* Start Luck */
 body,
 html {
 	overflow-x:hidden;
@@ -63,7 +24,7 @@ ul li {
 
 a { 
 	text-decoration: none;
-	color: #2f2f2f;  
+	color: #131313;  /* Modified */
 }
 
 a:hover,
@@ -1257,7 +1218,7 @@ a:focus,
 	color: #fff;
 	padding: 0 10%;
 }
-
+/* End Luck */
 .mu-testimonial-slide .mu-rt-img {
 	border-radius: 50%;
 	width: 75px;
@@ -2276,7 +2237,7 @@ a:focus,
 	border-bottom: 1px solid #ccc;
 	padding: 20px 0;
 }
-
+/*End Zul*/
 .mu-blog-share .mu-blog-share-nav {
 	border-top: none;
 	margin-top: 0;
