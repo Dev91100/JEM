@@ -290,7 +290,7 @@ a:focus,
 }
 
 .mu-navbar .mu-logo {
-	color:aqua ;
+	color: #fff;
 	font-weight: 600;
 	font-size: 36px;
 }
@@ -687,7 +687,7 @@ a:focus,
 }
 
 .mu-video-left {
-	background-image: url(https://www.facebook.com/watch/?v=360922988292078);
+	background-image: url(assets/images/video-img.jpg);
 	display: inline;
 	float: left;
 	text-align: center;
