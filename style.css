@@ -277,7 +277,7 @@ a:focus,
 /*--------------------*/
 
 #mu-hero {
-	background-color: #0091ea;
+	background-color:#013f6e;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -562,7 +562,7 @@ a:focus,
 }
 
 #mu-call-to-action:before {
-	background: #0091E3;
+	background: #aa4648;
 	content: '';
 	position: absolute;
 	opacity: 0.84;
@@ -1295,7 +1295,7 @@ a:focus,
 
 
 #mu-newsletter::before {
-	background: #0091ea;
+	background: #e1772a;
 	bottom: 0;
 	content: '';
 	left: 0;
@@ -1433,7 +1433,7 @@ a:focus,
 }
 
 .mu-footer-top {
-	background-color: #0277bd;
+	background-color: #013f6e;
 	display: inline;
 	float: left;
 	padding: 55px 0;
@@ -1502,7 +1502,7 @@ a:focus,
 }
 
 .mu-footer-bottom {
-	background-color: #004f7f;
+	background-color: #131313;
 	display: inline;
 	padding: 20px 0;
 	float: left;
