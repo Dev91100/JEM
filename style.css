@@ -148,7 +148,7 @@ iframe {
 /* ========= BUTTON =========*/
 
 .mu-primary-btn {
-	background-color: #0091ea;
+	background-color: #aa4648;
 	color: #fff;
 	display: inline-block;
 	font-size: 18px;
@@ -186,7 +186,7 @@ iframe {
 	background-color: #fff;
 }
 
-/*scrol to top*/
+/*scroll to top*/
 
 .scrollToTop {
 	background-color: #0091ea;
@@ -245,7 +245,7 @@ a:focus,
 .scrollToTop,
 .mu-testimonial-slide .slick-dots li.slick-active,
 #mu-callto-action {
-	background-color: #0091ea;
+	background-color: #aa4648;
 }
 
 .mu-social-media a:hover,
@@ -565,7 +565,7 @@ a:focus,
 	background: #aa4648;
 	content: '';
 	position: absolute;
-	opacity: 0.84;
+	opacity: 0.5;
 	left: 0;
 	right: 0;
 	top: 0;
@@ -598,13 +598,13 @@ a:focus,
 
 .mu-quote-btn {
 	background-color: #fff;
-	color: #0091ea;
+	color: #aa4648;
 	float: right;
 }
 
 .mu-quote-btn:hover,
 .mu-quote-btn:focus {
-	color: #0091ea;
+	color: #131313;
 }
 
 /*--------------------*/
@@ -639,7 +639,7 @@ a:focus,
 }
 
 .mu-single-service-icon {
-	background-color: #0091ea;
+	background-color: #aa4648;
 	border-radius: 50%;
 	color: #fff;
 	display: inline;
@@ -698,7 +698,7 @@ a:focus,
 }
 
 .mu-video-left:after {
-	background-color: #0091ea;
+	background-color: #aa4648;
 	content: '';
 	position: absolute;
 	left: 0;
@@ -706,7 +706,7 @@ a:focus,
 	top: 0;
 	bottom: 0;
 	height: 100%;
-	opacity: 0.84;
+	opacity: 0.5;
 	width: 100%;
 	z-index: 10;
 }
@@ -715,7 +715,7 @@ a:focus,
 	background-color: #fff;
 	border-radius: 15px;
 	display: inline-block;
-	color: #0091ea;
+	color: #aa4648;
 	height: 55px;
 	width: 80px;
 	position: relative;
@@ -743,7 +743,7 @@ a:focus,
 }
 
 .mu-video-right p {
-	color: #0091ea;
+	color: #aa4648;
 	font-size: 18px;
 }
 
@@ -854,7 +854,7 @@ a:focus,
 }
 
 .mu-filter-item-content {
-	background-color: #0091ea;
+	background-color: #aa4648;
 	position: absolute;
 	left: 16px;
 	top: 16px;
@@ -867,7 +867,7 @@ a:focus,
 	        transform: scale(0);
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
-	opacity: 0.9;
+	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 }
 
@@ -903,7 +903,7 @@ a:focus,
 
 .mu-simplefilter li:hover,
 .mu-simplefilter li.active {
-    color: #0091ea;
+    color: #aa4648;
 }
 
 
@@ -928,8 +928,8 @@ a:focus,
 	top: 0;
 	right: 0;
 	position: absolute;
-	opacity: 0.65;
-	background-color: #0091ea;
+	opacity: 0.5;
+	background-color: #aa4648;
 }
 
 .mu-counter-area {
@@ -1170,7 +1170,7 @@ a:focus,
 }
 
 #mu-testimonials::before {
-	background: #0091ea;
+	background: #aa4648;
 	bottom: 0;
 	content: '';
 	left: 0;
@@ -1295,14 +1295,14 @@ a:focus,
 
 
 #mu-newsletter::before {
-	background: #0091ea;
+	background: #aa4648;
 	bottom: 0;
 	content: '';
 	left: 0;
 	top: 0;
 	right: 0;
 	position: absolute;
-	opacity: 0.8;
+  opacity: 0.5;
 	z-index: 10;
 }
 
@@ -1347,7 +1347,7 @@ a:focus,
 }
 
 .mu-subscribe-btn {
-	background-color: #0091ea;
+	background-color: #aa4648;
 	color: #fff;
 	font-size: 18px;
 	position: absolute;
