@@ -3663,3 +3663,10 @@ a:focus,
 	
 }
 
+/*To resize recent projects photos*/
+.img-responsive
+{
+	width: 500px;
+	height: 250px;
+	overflow: hidden;
+} 
