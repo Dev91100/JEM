@@ -189,7 +189,7 @@ iframe {
 /*scroll to top*/
 
 .scrollToTop {
-	background-color: #0091ea;
+	background-color: #aa4648;
 	bottom: 60px;
 	color: #ffffff;
 	display: none;
@@ -212,7 +212,7 @@ iframe {
 }
 
 .mu-single-slide:before {
-	background-color:#8481b0;
+	background-color:#aa4648;
 	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=#8481b0, endColorstr=#73b58c);
 	background-image:-moz-linear-gradient(left, #8481b0 55%, #73b58c 22%,#69bbd5 100%);
 	background-image:linear-gradient(left, #8481b0 55%, #73b58c 22%,#69bbd5 100%);
@@ -238,7 +238,7 @@ a:focus,
 .mu-clients-slider .slick-prev::before, 
 .mu-clients-slider .slick-next::before,
 .my-why-us-single-icon {
-	color: #0091ea;
+	color: #131313;
 }
 
 
@@ -250,26 +250,26 @@ a:focus,
 
 .mu-social-media a:hover,
 .mu-social-media a:focus {
-	border: 1px solid #0091ea;
-	color: #0091ea;
+	border: 1px solid #aa4648;
+	color: #aa4648;
 }
 
 .mu-contact-form .form-control:focus,
 .mu-featured-tours-single-info .mu-book-now-btn {
-	border: 1px solid #0091ea;    
+	border: 1px solid #aa4648;    
 } 
 
 .mu-send-msg-btn,
 .mu-send-msg-btn:focus,
 .mu-register-btn:hover,
 .mu-register-btn:focus {
-	border: 1px solid #0091ea;
-	background-color: #0091ea;
+	border: 1px solid #aa4648;
+	background-color: #aa4648;
 }
 
 .mu-clients-slider .slick-prev, 
 .mu-clients-slider .slick-next {
-	border: 2px solid #0091ea;
+	border: 2px solid #aa4648;
 }
 
 /*--------------------*/
@@ -504,7 +504,7 @@ a:focus,
 }
 
 .mu-title h2 {
-	color: #e1772a;
+	color: #131313;
 	font-size: 30px;
 	text-transform: uppercase;
 	margin-bottom: 15px;
@@ -743,7 +743,7 @@ a:focus,
 }
 
 .mu-video-right p {
-	color: #aa4648;
+	color: #131313;
 	font-size: 18px;
 }
 
@@ -1638,7 +1638,7 @@ a:focus,
 }
 
 .mu-breadcrumb li.active {
-	color: #0091ea;
+	color: #aa4648;
 }
 
 .mu-breadcrumb li a {
@@ -1786,7 +1786,7 @@ a:focus,
 .mu-single-team-content span {
 	display: inline-block;
 	font-size: 16px;
-	color: #0091ea;
+	color: #aa4648;
 	margin-bottom: 5px;
 }
 
@@ -1818,7 +1818,7 @@ a:focus,
 
 .mu-team-social li a:hover,
 .mu-team-social li a:focus {
-	background-color: #0091ea;
+	background-color: #aa4648;
 	color: #fff;
 }
 
@@ -2589,7 +2589,7 @@ a:focus,
 }
 
 .mu-contact-form .mu-contact-icon {
-	color: #0091ea;
+	color: #aa4648;
 	font-size: 14px;
 	position: absolute;
 	left: 5px;
