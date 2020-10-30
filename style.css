@@ -372,7 +372,7 @@ a:focus,
 .mu-navbar-nav li a:hover,
 .mu-navbar-nav li a:focus {
 	background-color: #fff;
-	color: #aa4648;
+	color: #013f6e;
 }
 
 
@@ -389,7 +389,7 @@ a:focus,
 
 .mu-navbar-nav li .dropdown-menu a:hover,
 .mu-navbar-nav li .dropdown-menu a:focus {
-	color: #0091ea;
+	color: #013f6e;
 }
 
 
