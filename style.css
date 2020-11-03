@@ -555,7 +555,7 @@ a:focus,
 /*--------------------*/
 
 #mu-call-to-action {
-	background-image: url(assets/images/HomePagePhotos/Quote.jpg);
+	background-image: url(assets/images/index/Quote.jpg);
 	float: left;
 	position: relative;
 	width: 100%;
@@ -687,7 +687,7 @@ a:focus,
 }
 
 .mu-video-left {
-	background-image: url(assets/images/HomePagePhotos/VideoThumbnail.jpg);
+	background-image: url(assets/images/index/VideoThumbnail.jpg);
 	display: inline;
 	float: left;
 	text-align: center;
@@ -913,7 +913,7 @@ a:focus,
 /*--------------------*/
 
 #mu-counter {
-	background-image: url("assets/images/HomePagePhotos/SmallBanner.jpg");
+	background-image: url("assets/images/index/SmallBanner.jpg");
 	background-size: cover;
 	display: inline;
 	float: left;
@@ -1159,7 +1159,7 @@ a:focus,
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/HomePagePhotos/BigBanner.jpg");
+	background-image: url("assets/images/index/BigBanner.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -1284,7 +1284,7 @@ a:focus,
 /*--------------------*/
 
 #mu-newsletter {
-	background-image: url("assets/images/HomePagePhotos/NewsLetter.jpg");
+	background-image: url("assets/images/index/NewsLetter.jpg");
 	background-position: center center;
 	background-size: cover;
 	display: inline;
