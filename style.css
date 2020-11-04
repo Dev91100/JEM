@@ -912,7 +912,7 @@ a:focus,
 /*--------------------*/
 
 #mu-counter {
-	background-image: url("assets/images/index/SmallBanner.jpg");
+	background-image: url("assets/images/index/SmallBanner.png");
 	background-size: cover;
 	display: inline;
 	float: left;
@@ -1158,7 +1158,7 @@ a:focus,
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/index/BigBanner.jpg");
+	background-image: url("assets/images/index/BigBanner.png");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -1180,7 +1180,7 @@ a:focus,
 	z-index: 10;
 }
 
-.mu-testimonials-area {
+.facebook-area {
 	display: inline;
 	float: left;
 	padding: 150px 0 175px;
@@ -1189,7 +1189,7 @@ a:focus,
 	z-index: 20;
 }
 
-.mu-testimonials-area h2 {
+.facebook-area h2 {
 	color: #fff;
 	text-align: center;
 	text-transform: uppercase;
@@ -1283,7 +1283,7 @@ a:focus,
 /*--------------------*/
 
 #mu-newsletter {
-	background-image: url("assets/images/index/NewsLetter.jpg");
+	background-image: url("assets/images/index/NewsLetter.png");
 	background-position: center center;
 	background-size: cover;
 	display: inline;
@@ -3016,7 +3016,7 @@ a:focus,
 		padding: 20px 20px;
 	}
 
-	.mu-testimonials-area {
+	.facebook-area {
 		padding: 100px 0 125px;
 	}
 
@@ -3366,7 +3366,7 @@ a:focus,
 		font-size: 18px;
 	}
 
-	.mu-testimonials-area h2 {
+	.facebook-area h2 {
 		font-size: 25px;
 	}
 
@@ -3378,7 +3378,7 @@ a:focus,
 		font-size: 15px;
 	}
 
-	.mu-testimonials-area {
+	.facebook-area {
 		padding: 50px 0 50px;
 	}
 
@@ -3670,7 +3670,12 @@ a:focus,
 	overflow: hidden;
 }
 
+.facebook-area p
+{
+	color:white;
+}
+
 .ordered-list ol li
 {
-	list-style: circle;
+	list-style: square;
 }
