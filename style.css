@@ -1,4 +1,3 @@
-/* Start Luck */
 body,
 html {
 	overflow-x:hidden;
@@ -1218,7 +1217,7 @@ a:focus,
 	color: #fff;
 	padding: 0 10%;
 }
-/* End Luck */
+
 .mu-testimonial-slide .mu-rt-img {
 	border-radius: 50%;
 	width: 75px;
@@ -2237,7 +2236,7 @@ a:focus,
 	border-bottom: 1px solid #ccc;
 	padding: 20px 0;
 }
-/*End Zul*/
+
 .mu-blog-share .mu-blog-share-nav {
 	border-top: none;
 	margin-top: 0;
