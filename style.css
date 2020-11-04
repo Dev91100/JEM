@@ -1555,6 +1555,10 @@ a:focus,
 	background-color: #cd201f;
 }
 
+.mu-social-media a.mu-instagram {
+	background-color: #8134AF;
+}
+
 .mu-social-media a:hover,
 .mu-social-media a:focus {
 	border-color: #babcbe;
@@ -1581,8 +1585,8 @@ a:focus,
 
 
 #mu-page-header {
-	background-image: url(assets/images/page-header-bg.jpg);
-	background-position: center center;
+	background-image: url(assets/images/banner/Banner.jpg);
+	background-position: bottom center;
 	background-size: cover;
 	display: inline;
 	float: left;
