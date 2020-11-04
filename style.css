@@ -1599,7 +1599,7 @@ a:focus,
 	top: 0;
 	right: 0;
 	position: absolute;
-	opacity: 0.60;
+	opacity: 0.3;
 	z-index: 10;
 }
 
