@@ -422,12 +422,12 @@ a:focus,
 	right: 0;
 	top: 0;
 	bottom: 0;
-	opacity: 0.8;
+	opacity: 0.3;
 	z-index: 10;
 }
 
 .mu-single-slide-content-area {
-	position: absolute;
+	position:absolute;
 	left: 0;
 	top: 0;
 	right: 0;
@@ -693,7 +693,7 @@ a:focus,
 	position: relative;
 	width: 100%;
 	padding: 195px 0;
-	background-size: cover;
+	background-size: contain;
 }
 
 .mu-video-left:after {
@@ -1598,7 +1598,7 @@ a:focus,
 	top: 0;
 	right: 0;
 	position: absolute;
-	opacity: 0.60;
+	opacity: 0.3;
 	z-index: 10;
 }
 
