@@ -423,12 +423,12 @@ a:focus,
 	right: 0;
 	top: 0;
 	bottom: 0;
-	opacity: 0.8;
+	opacity: 0.3;
 	z-index: 10;
 }
 
 .mu-single-slide-content-area {
-	position: absolute;
+	position:absolute;
 	left: 0;
 	top: 0;
 	right: 0;
