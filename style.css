@@ -687,7 +687,7 @@ a:focus,
 }
 
 .mu-video-left {
-	background-image: url(assets/images/index/VideoThumbnail.jpg);
+	background-image: url(assets/images/index/VideoThumbnail.png);
 	display: inline;
 	float: left;
 	text-align: center;
@@ -1482,8 +1482,8 @@ a:focus,
 }
 
 .mu-single-footer .list-unstyled li {
-	margin-bottom: 20px;
-	padding-bottom: 10px;
+	/* margin-bottom: 20px;
+	padding-bottom: 10px; */
 }
 
 .mu-single-footer .list-unstyled li.media span {
@@ -2161,10 +2161,10 @@ a:focus,
 }
 
 .mu-popular-content-widget .media .media-body h3 {
-	color: #323232;
-	font-size: 14px;
-	font-weight: 400;
-	line-height: 1.3;
+	/* color: #323232; */
+	/* font-size: 14px; */
+	/* font-weight: 400; */
+	/* line-height: 1.3; */
 }
 
 /*Blog Single*/
@@ -2358,16 +2358,16 @@ a:focus,
 }
 
 .mu-comments-area .comments .commentlist li .media-body p {
-	margin-bottom: 0px;
+	/* margin-bottom: 0px;
 	font-size: 14px;
-	color: #323232;
+	color: #323232; */
 }
 
 .mu-comments-area .comments .commentlist li .media-body .author-name {
-	margin-bottom: 0px;
+	/* margin-bottom: 0px;
 	margin-top: 0;
 	color: #323232;
-	font-size: 16px;
+	font-size: 16px; */
 }
 
 .mu-comments-area .comments .commentlist li .comments-date {
@@ -3666,7 +3666,7 @@ a:focus,
 /*To resize recent projects photos*/
 .img-responsive
 {
-	width: 500px;
+	width: 100%;
 	height: 250px;
 	overflow: hidden;
 } 
