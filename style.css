@@ -445,16 +445,18 @@ a:focus,
 }
 
 .mu-single-slide-content h1 {
-	color: #fff;
+	color: #009000;
 	text-transform: uppercase;
-	font-size: 48px;
+	font-size: 75px;
 	margin-bottom: 30px;
+	-webkit-text-stroke-width: 0.2vw;
+  	-webkit-text-stroke-color: white;
 }
 
 .mu-single-slide-content p {
-	color: #fff;
-	font-size: 14px;
-	margin-bottom: 30px;
+	color: white;
+	font-size: 20px;
+	margin-bottom: 35px;
 }
 
 .mu-single-slide-content a {
@@ -518,6 +520,7 @@ a:focus,
 	float: left;
 	padding-right: 15px;
 	width: 100%;
+	border: 10px solid #013f6e;
 }
 
 .mu-about-right {
@@ -546,8 +549,14 @@ a:focus,
 
 .mu-about-right p {
 	font-size: 14px;
+
 }
 
+.mu-about-right#history
+{
+	text-align: justify;
+  	text-justify: inter-word;
+} 
 
 /*--------------------*/
 /* CALL TO ACTION */
@@ -581,8 +590,8 @@ a:focus,
 .mu-call-to-action-left {
 	color: #fff;
 	display: inline;
-	float: left;
-	max-width: 70%;
+	float: center;
+	max-width: 100%;
 }
 
 .mu-call-to-action-left h2 {
@@ -1555,6 +1564,10 @@ a:focus,
 	background-color: #cd201f;
 }
 
+.mu-social-media a.mu-instagram {
+	background-color: #8134AF;
+}
+
 .mu-social-media a:hover,
 .mu-social-media a:focus {
 	border-color: #babcbe;
@@ -1581,8 +1594,8 @@ a:focus,
 
 
 #mu-page-header {
-	background-image: url(assets/images/page-header-bg.jpg);
-	background-position: center center;
+	background-image: url(assets/images/banner/Banner.jpg);
+	background-position: bottom center;
 	background-size: cover;
 	display: inline;
 	float: left;
@@ -1612,11 +1625,13 @@ a:focus,
 }
 
 .mu-page-header-title {
-	color: #323232;
+	color: #009000;
 	text-align: center;
 	font-size: 48px;
 	text-transform: uppercase;
 	margin-bottom: 0;
+	-webkit-text-stroke-width: 0.15vw;
+  	-webkit-text-stroke-color: white;
 }
 
 #mu-breadcrumb {
@@ -3662,13 +3677,18 @@ a:focus,
 	
 }
 
-/*To resize recent projects photos*/
+/*To resize recent projects & portfolio photos*/
 .img-responsive
 {
 	width: 100%;
 	height: 250px;
-	overflow: hidden;
-	object-fit: cover;
+	object-position: 100% 0%; /*position image from the top*/
+	object-fit: cover; /*cut off the sides of the image, preserving the aspect ratio, and also filling in the space*/
+}
+
+.media-body iframe
+{
+	padding-left: 50px;
 }
 
 .facebook-area p
