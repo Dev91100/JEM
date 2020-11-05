@@ -520,7 +520,7 @@ a:focus,
 	float: left;
 	padding-right: 15px;
 	width: 100%;
-	border: 10px solid #013f6e;
+	/* border: 10px solid #013f6e; */
 }
 
 .mu-about-right {
