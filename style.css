@@ -1175,13 +1175,28 @@ a:focus,
 .facebook-area {
 	display: inline;
 	float: left;
-	padding: 150px 0 175px;
+	padding: 150px 0px 20px 10px;
+	width: 100%;
+	position: relative;
+	z-index: 20;
+}
+
+.youtube-area {
+	display: inline;
+	float: left;
+	padding: 20px 0 150px;
 	width: 100%;
 	position: relative;
 	z-index: 20;
 }
 
 .facebook-area h2 {
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.youtube-area h2 {
 	color: #fff;
 	text-align: center;
 	text-transform: uppercase;
