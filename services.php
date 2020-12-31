@@ -30,10 +30,10 @@
 	<!-- Google Fonts Open sans -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800" rel="stylesheet">
  
- 
 	</head>
   <body>
-
+	  <?php $page="services";?>
+	  
   	<!-- Font Awesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
      <!-- Bootstrap CSS -->
@@ -62,38 +62,8 @@
     </a>
  	<!-- END SCROLL TOP BUTTON -->
   	
-  	<!-- Start Header -->
-	<header id="mu-hero">
-		<div class="container">
-			<nav class="navbar navbar-expand-lg navbar-light mu-navbar">
-				<!-- Logo -->
-				<a class="navbar-brand mu-logo" href="index.html"><img src="assets/images/index/JEM Logo_Nav.png" width = "150vw" height = "65vw" alt="logo"></a>
-				<a class="navbar-brand mu-logo" href="index.html"><span>JEM</a>
-					
-			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-			    <span class="fa fa-bars"></span>
-			  </button>
-
-			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-			    <ul class="navbar-nav mr-auto mu-navbar-nav">
-			      <li class="nav-item"><a href="index.html">Home</a></li>
-					<li class="nav-item"><a href="about-us.html">About us</a></li>
-					<li class="nav-item active"><a href="services.html">Services</a></li>
-					<li class="nav-item"><a href="portfolio.html">Portfolio</a></li>
-			    	<li class="nav-item dropdown">
-				    <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News</a>
-				    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-				    	<a class="dropdown-item" href="https://www.facebook.com/LesJeunesEtudiantsMusulmans" target="_blank">Facebook</a>
-				    	<a class="dropdown-item" href="https://www.instagram.com/jeunes_etudiants_musulmans/?hl=en" target="_blank">Instagram</a>
-				    	<a class="dropdown-item" href="https://www.youtube.com/channel/UCtrp6KC-1pMRZd2fBwE-rDg" target="_blank">Youtube</a>
-				    </div>
-				    </li>
-			        <li class="nav-item"><a href="contact.html">Contact us</a></li>
-			    </ul>
-			  </div>
-			</nav>
-		</div>
-	</header>
+	<!-- Start Header -->
+	<?php include "./includes/navbar.php";?>
 	<!-- End Header -->
 
 	<!-- Start Page Header area -->

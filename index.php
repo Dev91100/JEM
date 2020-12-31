@@ -32,46 +32,18 @@
  
  
 	</head>
-  <body>
-   <!--START SCROLL TOP BUTTON -->
+	
+	<body>
+  	<?php $page="index";?>
+
+   	<!--START SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#">
       <i class="fa fa-angle-up"></i>
     </a>
-  <!-- END SCROLL TOP BUTTON -->
+  	<!-- END SCROLL TOP BUTTON -->
   	
   	<!-- Start Header -->
-	<header id="mu-hero">
-		<div class="container">
-			<nav class="navbar navbar-expand-lg navbar-light mu-navbar">
-				<!-- Logo -->
-
-				<a class="navbar-brand mu-logo" href="index.html"><img src="assets/images/index/JEM Logo_Nav.png" width = "150vw" height = "65vw" alt="logo"></a>
-				<a class="navbar-brand mu-logo" href="index.html"><span>JEM</a>
-
-			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-			    <span class="fa fa-bars"></span>
-			  </button>
-
-			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-			    <ul class="navbar-nav mr-auto mu-navbar-nav">
-			      <li class="nav-item active"><a href="index.html">Home</a></li>
-					<li class="nav-item"><a href="about-us.html">About us</a></li>
-					<li class="nav-item"><a href="services.html">Services</a></li>
-					<li class="nav-item"><a href="portfolio.html">Portfolio</a></li>
-			    	<li class="nav-item dropdown">
-				    <a class="dropdown-toggle" href="blog.html" role="button" id="navbarDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">News</a>
-				    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-				    	<a class="dropdown-item" href="https://www.facebook.com/LesJeunesEtudiantsMusulmans" target="_blank">Facebook</a>
-				    	<a class="dropdown-item" href="https://www.instagram.com/jeunes_etudiants_musulmans/?hl=en" target="_blank">Instagram</a>
-				    	<a class="dropdown-item" href="https://www.youtube.com/channel/UCtrp6KC-1pMRZd2fBwE-rDg" target="_blank">Youtube</a>
-				    </div>
-				    </li>
-			        <li class="nav-item"><a href="contact.html">Contact us</a></li>
-			    </ul>
-			  </div>
-			</nav>
-		</div>
-	</header>
+	<?php include "./includes/navbar.php";?>
 	<!-- End Header -->
 
 	<!-- Start slider area -->
@@ -551,20 +523,11 @@
 								<h2>Send Us A Message on Facebook</h2>
 								<p>You can also find our upcoming events below.</p>
 								<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FLesJeunesEtudiantsMusulmans&tabs=messages%2C%20events&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:10px solid black;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-              </div>
+              				</div>
 						</div>
 					</div>
 				</div>
 			</div>
-      
-
-						<div class="youtube-area">
-							<div class="mu-title">
-								<h2>Check Out Our Youtube Channel</h2>
-								<p>You can find video coverage of our events here.</p>
-								<iframe src="http://www.youtube.com/embed/videoseries?list=UUsvSIMvcVAP5lSBUFmuNE9Q" width="340" height="500" style="border:10px solid black;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>							
-              </div>
-						</div>
 		</section>
 		<!-- End Client Testimonials -->
 
