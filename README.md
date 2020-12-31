@@ -1,10 +1,19 @@
-## Introduction
 
-One of our members is a member of an NGO she thinks working with will do justice
-to the excellent initiative of digicup. JEM - Jeunes Étudiants musulmans is a group
-of students, young professionals , strong in mind, unified in objective, faith and
-approach. As such we wanted to act as the wheel, the enabler for a body which
-chose to run and had a soft voice.
+<a href="https://drive.google.com/uc?export=view&id=18bWEzW9LseM9uF8yHW_ZFuASjQONs55F"><img src="https://drive.google.com/uc?export=view&id=18bWEzW9LseM9uF8yHW_ZFuASjQONs55F" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=1cQXVFXs8m4a7H1KEdPMCjYveSQRbL5TU"><img src="https://drive.google.com/uc?export=view&id=1cQXVFXs8m4a7H1KEdPMCjYveSQRbL5TU" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=1V-I1HidaGU6w7vGYpBn7W7bjrhCgI7UO"><img src="https://drive.google.com/uc?export=view&id=1V-I1HidaGU6w7vGYpBn7W7bjrhCgI7UO" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=1X-6SW23ADzg9vgx8bpUhEfalo6nb0Sgg"><img src="https://drive.google.com/uc?export=view&id=1X-6SW23ADzg9vgx8bpUhEfalo6nb0Sgg" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=1HaN1-_Kju2SqkkPcYnpvdX4GGA5O1vcv"><img src="https://drive.google.com/uc?export=view&id=1HaN1-_Kju2SqkkPcYnpvdX4GGA5O1vcv" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=1WPhGF1iJIKZdRQxfu6wvD9oSo2zPCh78"><img src="https://drive.google.com/uc?export=view&id=1WPhGF1iJIKZdRQxfu6wvD9oSo2zPCh78" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=13X4fSQ_BAGCJ-b7LTTttHApO7Ip7IqzE"><img src="https://drive.google.com/uc?export=view&id=13X4fSQ_BAGCJ-b7LTTttHApO7Ip7IqzE" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+
 
 ## Problem Statement
 
